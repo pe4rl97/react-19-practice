@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "birthDate": "3-July-1962",
+      "name": "Tom Cruise",
+      "occupation": "Actor"
+    },
+    {
+      "id": 2,
+      "birthDate": "25-Sep-1968",
+      "name": "Will Smith",
+      "occupation": "Actor"
+    },
+    {
+      "id": 3,
+      "birthDate": "2-Sep-1964",
+      "name": "Keanu Reeves",
+      "occupation": "Actor"
+    },
+    {
+      "id": 4,
+      "birthDate": "18-Dec-1963",
+      "name": "Brad Pitt",
+      "occupation": "Actor"
+    },
+    {
+      "name": "pearl",
+      "birthDate": "10-06-2003",
+      "occupation": "engineer",
+      "id": 5
+    },
+    {
+      "name": "gfVCV",
+      "birthDate": "30-12-2024",
+      "occupation": "FGF",
+      "id": 6
+    },
+    {
+      "name": "SDFAF",
+      "birthDate": "10-12-2003",
+      "occupation": "SDFSDF",
+      "id": 7
+    },
+    {
+      "name": "dadfa",
+      "birthDate": "10-06-2003",
+      "occupation": "user",
+      "id": 8
+    }
+  ]
+}
