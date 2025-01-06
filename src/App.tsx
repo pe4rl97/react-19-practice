@@ -1,13 +1,14 @@
-import './App.css'
-import AddUser from './components/AddUser'
-import FormActions from './components/FormActions'
+import './App.css';
+import MarkdownEditor from './components/MarkdownEditor';
+import MessageBox from './components/MessageBox';
+
 
 function App() {
     return (
         <main>
-            {/* <NavBar/> */}
-            <FormActions/>
-            <AddUser/>
+            <MessageBox/>
+            <hr/>
+            <MarkdownEditor/>
         </main>
     )
 }
